@@ -1,0 +1,2 @@
+O programa vai acusar erro de referência.
+Pois a função se chama multiplicacao enquanto a função multiplica está sendo chamada.
